@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - POP3 class to access POP3 server
 Name:		php-pear-%{_pearname}
 Version:	1.3.6
-Release:	%mkrel 7
+Release:	%mkrel 8
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
