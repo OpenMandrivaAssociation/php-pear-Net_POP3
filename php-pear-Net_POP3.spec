@@ -5,7 +5,7 @@
 Summary:	POP3 class to access POP3 server
 Name:		php-pear-%{modname}
 Version:	1.3.8
-Release:	4
+Release:	5
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Net_POP3/
