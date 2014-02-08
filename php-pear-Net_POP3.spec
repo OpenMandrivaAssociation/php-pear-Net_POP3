@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.8
-Release:	3
+Release:	4
 Summary:	POP3 class to access POP3 server
 License:	PHP License
 Group:		Development/PHP
