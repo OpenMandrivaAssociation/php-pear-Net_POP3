@@ -8,7 +8,7 @@ Version:	1.3.8
 Release:	12
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_POP3/
+Url:		https://pear.php.net/package/Net_POP3/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
